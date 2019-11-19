@@ -24,7 +24,7 @@ nakigara web site
 `export PATH=$PATH:$GOROOT/bin`  
 
 #Note  
-#_chimpo_
+_chimpo_
 
 #Installtion  
 
