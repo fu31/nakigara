@@ -2,11 +2,9 @@
 nakigara web site 
 
 
-#git clone
+# git clone
 
-'git clone https://github.com/fu31/nakigara.git
-
-
+`git clone https://github.com/fu31/nakigara.git`
 
 #Pre Installtion
 
@@ -23,10 +21,10 @@ nakigara web site
 `export PATH=$PATH:$GOPATH/bin`  
 `export PATH=$PATH:$GOROOT/bin`  
 
-#Note  
+# Note  
 _chimpo_
 
-#Installtion  
+# Installtion  
 
 - Install beego  
 `go get github.com/astaxie/beego`  
