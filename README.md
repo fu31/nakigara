@@ -30,7 +30,7 @@ _chimpo_
 `go get github.com/astaxie/beego`  
 `go get github.com/beego/bee`  
 - start beego  
-go projet directory and
+go project directory and
 `bee run`  
 - access root page  
 http://localhost:8080/
