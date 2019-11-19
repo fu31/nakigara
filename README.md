@@ -32,7 +32,7 @@ _chimpo_
 - start beego  
 `bee run`  
 - access root page  
-`http://localhost:8080/ `  
+http://localhost:8080/
 
 see the this page more detail installtion  
 https://qiita.com/macococo/items/e5ace2550418ccced9ac
