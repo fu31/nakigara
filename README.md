@@ -1,11 +1,6 @@
 # nakigara
 nakigara web site 
 
-
-# git clone
-
-`git clone https://github.com/fu31/nakigara.git`
-
 # Pre Installtion
 
 - Install goenv  
@@ -30,7 +25,9 @@ nakigara web site
 `go get github.com/astaxie/beego`  
 `go get github.com/beego/bee`  
 - start beego  
-go project directory and
+# git clone
+go $HOME/go/src and git clone
+`git clone https://github.com/fu31/nakigara.git`
 `bee run`  
 - access root page  
 http://localhost:8080/
