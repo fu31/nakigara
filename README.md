@@ -20,9 +20,9 @@ nakigara web site
 `export GOPATH=$HOME/go`  
 `export PATH=$PATH:$GOPATH/bin`  
 `export PATH=$PATH:$GOROOT/bin`  
+`eval "$(goenv init -)"`
 
-# Note  
-_chimpo_
+# Chimpo
 
 # Installtion  
 
