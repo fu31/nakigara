@@ -6,7 +6,7 @@ nakigara web site
 
 `git clone https://github.com/fu31/nakigara.git`
 
-#Pre Installtion
+# Pre Installtion
 
 - Install goenv  
 `brew install goenv`   
